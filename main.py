@@ -13,6 +13,6 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('Milad2')
 
-    print_hi('Iman2')
+    print_hi('Iman3')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
